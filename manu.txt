@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/manu367/portfolio.git
+git add .
+git commit -m "Initial commit - Portfolio project"
+
+git branch -M main
