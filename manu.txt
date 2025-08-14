@@ -4,3 +4,10 @@ git add .
 git commit -m "Initial commit - Portfolio project"
 
 git branch -M main
+git push -u origin main
+
+
+----------- update code------------
+git add .
+git commit -m "Updated portfolio project with latest changes"
+git push origin main
